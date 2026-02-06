@@ -9,6 +9,7 @@ core Java logic and problem-solving.
 ### Loops
 - for loop
 - while loop
+- do-while
 - nested loops
 - pattern problems
 - number based programs
